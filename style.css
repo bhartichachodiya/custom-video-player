@@ -1,0 +1,22 @@
+.container {
+    /* background: white; */
+    width: 406px;
+    box-sizing: 0px 0px 11px black;
+    box-shadow: 0px 0px 11px black;
+    border-radius: 5px;
+    text-align: center;
+}
+
+video#video {
+    width: 406px;
+}
+
+.control {
+    background: black;
+    padding: 10px;
+    margin-top: -7px;
+}
+
+span#timestamp {
+    color: white;
+}
